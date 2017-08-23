@@ -1,0 +1,19 @@
+.button {
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-padding: 2 10 2 10;
+    -fx-border-insets: 1em;
+}
+
+.label {
+   -fx-font: bold 5em "Arial";
+   -fx-padding: 0 10 0 10;
+}
+
+.reset {
+    -fx-text-fill: #BBBBBB;
+    -fx-padding: -10 0 0 73;
+    -fx-border-insets: 0;
+    -fx-background-color: white;
+}
